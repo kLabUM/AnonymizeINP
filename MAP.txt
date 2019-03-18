@@ -1,0 +1,3 @@
+[MAP]
+DIMENSIONS 0 0 110250.0 110250.0
+Units	 Feet
